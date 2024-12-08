@@ -62,7 +62,7 @@ const Search = () => {
         />
         <Input
           value={query}
-          placeholder="Search..."
+          placeholder="Search"
           className="search-input"
           onChange={(e) => setQuery(e.target.value)}
         />

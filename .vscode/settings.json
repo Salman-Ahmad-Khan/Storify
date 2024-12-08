@@ -1,3 +1,5 @@
 {
-    "eslint.format.enable": false
+    "eslint.format.enable": false,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "vscode.extension-editing"
 }
